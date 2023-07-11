@@ -21,7 +21,9 @@
 **DE project in Azure enviroment using ADF, Databricks, delta lake etc. that i was working on as a part of a course**
 - i am not sure if i can share it here but i will be happy to talk about it or show it if needed
 
-
+🔭 I’m currently working on ...
+**Mildebook, my own social network!**
+- https://github.com/milderengen/mildebook
 
 <!--
 **milderengen/milderengen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
