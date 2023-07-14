@@ -5,7 +5,7 @@
 - LinkedIn -https://www.linkedin.com/in/milo%C5%A1-j%C3%A1no%C5%A1%C3%ADk-774815268/
 - Codewars -https://www.codewars.com/users/milderengen
 
-**Momentally i am working on getting DP-203 certification from Microsoft**
+**Momentally i am working on getting DP-203 certification from Microsoft** **PAUSED**
 
 ***My projects:***
 
