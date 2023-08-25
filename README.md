@@ -27,7 +27,7 @@
 🔭 I’m currently working on ...
 **Ordering service using JAVA and Kafka with postgreSQL DB**
 - https://github.com/milderengen/microservicesProject
-- 
+  
 🔭 I’m currently working on ...
 **Personal expense tracker using JAVA FX, hibernate with PostgreSQL**
 - https://github.com/milderengen/PersonalFinanceTracker/tree/master
