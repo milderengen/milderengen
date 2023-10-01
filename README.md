@@ -24,6 +24,9 @@
 **Mildebook, my own social network!**
 - https://github.com/milderengen/mildebook
 
+**Coffee Shop project running on Tomcat, embedded h2 database and JAX:RS**
+- https://github.com/milderengen/CoffeeShop
+
 🔭 I’m currently working on ...
 **Ordering service using JAVA and Kafka with postgreSQL DB**
 - https://github.com/milderengen/microservicesProject
